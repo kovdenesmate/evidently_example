@@ -1,0 +1,9 @@
+fastapi
+pandas
+numpy
+requests
+sklearn
+evidently
+gunicorn
+uvicorn
+
