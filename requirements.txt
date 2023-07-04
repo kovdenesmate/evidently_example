@@ -3,7 +3,7 @@ pandas
 numpy
 requests
 scikit-learn
-evidently
+evidently==0.2.8
 gunicorn
 uvicorn
 matplotlib
