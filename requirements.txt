@@ -8,4 +8,5 @@ gunicorn
 uvicorn
 matplotlib
 httpx
+aiofiles
 
